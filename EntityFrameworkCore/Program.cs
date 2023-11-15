@@ -7,7 +7,7 @@ namespace EntityFrameworkCore
         {
            
             wallet wallet = new wallet();
-            wallet.ToString();
+            wallet.PrintWallets();
 
          
         }
